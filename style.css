@@ -1,0 +1,185 @@
+/* body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1,h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.credits{
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+
+/* Font size */
+/* p{
+font-size: 30px;
+}
+/* percentage */
+/* p{
+    font-size: 500%;
+} */
+/* Default vaule */
+/* p{
+    font-size: large;
+} */ 
+
+
+/* Font face */
+/* @font-face {
+    font-family: 'test';
+    src: url('/Fonts/Kdam_Thmor_Pro/KdamThmorPro-Regular.ttf');
+}
+
+h1{
+    font-family: test;
+} */
+
+/* font-weight */
+/* p{
+    font-weight: 500;
+} */
+
+/* Font style */
+/* #normal{
+    font-style: normal;
+}
+
+#italic{
+    font-style: italic;
+}
+
+#oblique{
+    font-style: oblique;
+} */
+
+/* Font transformation */
+/* h1{
+    text-transform: capitalize;
+} */
+
+/* Text decoration */
+/* #underline{
+    text-decoration: underline;
+}
+
+#overline{
+    text-decoration: overline;
+}
+#line-through{
+    text-decoration: line-through;
+}
+#blink{
+    text-decoration: blink;
+} */
+
+/* Line height */
+/* p{
+    line-height: 100px;
+} */
+
+/* letter word spacing */
+/* h1{
+    word-spacing: 20px;
+} */
+
+/* letter-spacing */
+/* h1{
+    letter-spacing: -9px;
+} */
+
+/* text align */
+/* h1{
+    text-align: center;
+} */
+/* p{
+    text-align: justify;
+} */
+
+/* Vertoical alignment */
+/* img{
+    vertical-align: middle;
+
+} */
+
+/* twxt indent */
+/* h1{
+    text-indent: 50px;
+} */
+
+/* Text shadow */
+/* p{
+    background-color: rebeccapurple;
+    color: #666666;
+    text-shadow: 1px 1px 0px #000000;
+} */
+
+/* first letter or first sentence */
+/* p::first-letter{
+    color: red;
+}
+
+p::first-line{
+    color:blue;
+} */
+
+
+/* styling color */
+/* a:link{
+    color:red ;
+}
+
+a.visited{
+    color: green;
+} */
+
+/* reponding to user */
+/* hover */
+/* input.btn:hover{
+    background-color: wheat;
+}
+
+input.btn:active{
+    background-color: red;
+} */
+
+/* input.btn:focus{
+    background-color: blueviolet;
+}
+
+input.textbox:focus{
+    background-color: blueviolet;
+} */
+
+/* attribute selectior */
+/* EXISTENCE */
+
+/* h1[test]{
+    color: red;
+} */
+
+/* EQUALITY */
+/* h1[test="hi"]{
+    color: red;
+} */
+
+/* SPACE */
+/* h1[test~='heloo']{
+    color: rebeccapurple;
+
+} */
+
+/* PREFIX */
+
+/* SUBSTRING */
+/* 
+h1[test$="1"]{
+    color: rebeccapurple;
+} */
+
+/* SUFIX */
+
+/* h1[test$="1"]{
+    color: red;
+} */
